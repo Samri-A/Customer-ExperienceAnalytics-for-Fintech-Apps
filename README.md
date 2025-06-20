@@ -1,13 +1,5 @@
 # Customer-ExperienceAnalytics-for-Fintech-Apps
 
-This repository contains two main projects:
-
-- **Customer Experience Analytics for Fintech Apps**: A data analytics toolkit for extracting, preprocessing, and analyzing customer reviews from fintech applications.
-- **MiniGit**: A minimal version control system implemented in C++ for educational purposes.
-
----
-
-## 1. Customer Experience Analytics for Fintech Apps
 
 ### Overview
 
@@ -41,38 +33,6 @@ This project provides scripts and notebooks to scrape, preprocess, and analyze c
 - Preprocess and clean review data.
 - Perform sentiment and thematic analysis.
 - Classify text and extract top keywords.
-
----
-
-## 2. MiniGit
-
-### Overview
-
-MiniGit is a simplified version control system written in C++. It supports basic git-like operations such as `init`, `add`, `commit`, `branch`, and `log`.
-
-### Directory Structure
-
-- `Minigit-project/`: Contains the MiniGit C++ source code (`minigit.cpp`) and its README.
-
-### Building and Running
-
-1. **Compile:**
-   ```sh
-   g++ -std=c++17 -o minigit Minigit-project/minigit.cpp
-   ```
-
-2. **Run:**
-   ```sh
-   ./minigit
-   ```
-
-### Features
-
-- Initialize a repository
-- Add files to staging area
-- Commit changes
-- View commit log
-- Create branches
 
 ---
 
