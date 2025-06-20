@@ -1,0 +1,5 @@
+from textblob import TextBlob as tb
+
+def get_sentiment_score(text):
+    analysis = tb(text)
+    return analysis.sentiment.polarity 
