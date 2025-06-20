@@ -1,4 +1,7 @@
 google_play_scraper
 numpy
 pandas
-json
+spacy
+sklearn
+bertopic
+transformers
