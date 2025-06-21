@@ -5,3 +5,5 @@ spacy
 sklearn
 bertopic
 transformers
+matplotlib
+seaborn
